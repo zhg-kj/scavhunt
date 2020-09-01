@@ -1,0 +1,67 @@
+.display {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+
+  height: 30vh;
+  width: 100vw;
+
+  background: #F1FAEE;
+
+  border-radius: 3vh 3vh 0 0;
+}
+
+.texts {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+
+  text-align: center;
+  font-family: fjalla;
+  color: black;
+}
+
+.static {
+  margin: 0;
+  font-size: 6vh;
+}
+
+.target {
+  margin: 0;
+  margin-top: 1vh;
+  font-size: 10vh;
+  text-decoration: underline;
+}
+
+.score {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  background: #F1FAEE;
+
+  border-radius: 0 0 3vh 0;
+}
+
+.scoreT {
+  margin: 2vw;
+}
+
+.feed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+
+  width: 100vw;
+  height: 100vh;
+
+  object-fit: cover;
+}
+
+.score {
+  text-align: center;
+  font-family: fjalla;
+  color: black;
+}

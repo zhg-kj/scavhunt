@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40abebb2.chunk.css",
+    "main.js": "/static/js/main.e6039ebc.chunk.js",
+    "main.js.map": "/static/js/main.e6039ebc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.82274a96.js",
+    "runtime-main.js.map": "/static/js/runtime-main.82274a96.js.map",
+    "static/js/2.16969c2b.chunk.js": "/static/js/2.16969c2b.chunk.js",
+    "static/js/2.16969c2b.chunk.js.map": "/static/js/2.16969c2b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b33c1216a6daecc0b2d5b56bb2f48bbc.js": "/precache-manifest.b33c1216a6daecc0b2d5b56bb2f48bbc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.40abebb2.chunk.css.map": "/static/css/main.40abebb2.chunk.css.map",
+    "static/js/2.16969c2b.chunk.js.LICENSE.txt": "/static/js/2.16969c2b.chunk.js.LICENSE.txt",
+    "static/media/general.css": "/static/media/FjallaOne-Regular.4fa36830.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82274a96.js",
+    "static/js/2.16969c2b.chunk.js",
+    "static/css/main.40abebb2.chunk.css",
+    "static/js/main.e6039ebc.chunk.js"
+  ]
+}

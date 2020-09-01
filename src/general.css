@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+
+  -webkit-user-select: none; /* Safari */        
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+}
+
+@font-face {
+  font-family: fjalla;
+  src: url(./assets/FjallaOne-Regular.ttf);
+  font-weight: bold;
+}
+
+.browser {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+
+  background: #F1FAEE;
+}
+
+.error {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+
+  font-size: 4rem;
+  font-family: fjalla;
+  color: black;
+}
+
