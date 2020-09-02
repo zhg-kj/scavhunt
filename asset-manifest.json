@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scavhunt/static/css/main.3c2f2892.chunk.css",
+    "main.js": "/scavhunt/static/js/main.c30b4c9b.chunk.js",
+    "main.js.map": "/scavhunt/static/js/main.c30b4c9b.chunk.js.map",
+    "runtime-main.js": "/scavhunt/static/js/runtime-main.69556e6f.js",
+    "runtime-main.js.map": "/scavhunt/static/js/runtime-main.69556e6f.js.map",
+    "static/js/2.16969c2b.chunk.js": "/scavhunt/static/js/2.16969c2b.chunk.js",
+    "static/js/2.16969c2b.chunk.js.map": "/scavhunt/static/js/2.16969c2b.chunk.js.map",
+    "index.html": "/scavhunt/index.html",
+    "precache-manifest.7fb8e3cf77c0316f3505a2f3b95d7dcd.js": "/scavhunt/precache-manifest.7fb8e3cf77c0316f3505a2f3b95d7dcd.js",
+    "service-worker.js": "/scavhunt/service-worker.js",
+    "static/css/main.3c2f2892.chunk.css.map": "/scavhunt/static/css/main.3c2f2892.chunk.css.map",
+    "static/js/2.16969c2b.chunk.js.LICENSE.txt": "/scavhunt/static/js/2.16969c2b.chunk.js.LICENSE.txt",
+    "static/media/general.css": "/scavhunt/static/media/FjallaOne-Regular.4fa36830.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69556e6f.js",
+    "static/js/2.16969c2b.chunk.js",
+    "static/css/main.3c2f2892.chunk.css",
+    "static/js/main.c30b4c9b.chunk.js"
+  ]
+}
